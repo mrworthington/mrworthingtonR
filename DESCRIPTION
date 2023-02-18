@@ -1,0 +1,29 @@
+Package: mrworthingtonR
+Type: Package
+Title: My Personal R Package
+Version: 0.0.0.9000
+Date: 2023-02-16
+Authors@R: 
+    person("Matt", "Worthington", , "worthington.matthew@utexas.edu", role = c("aut", "cre"))
+Maintainer: Matt Worthington <worthington.matthew@utexas.edu>
+Description: This package delivers chart themes, table themes, and other productivity resources for me.
+URL: http://github.com/mrworthington/mrworthingtonR
+BugReports: https://github.com/mrworthington/mrworthingtonR/issues
+License: file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports: 
+    dplyr,
+    extrafont,
+    ggplot2,
+    janitor,
+    patchwork,
+    png,
+    readr,
+    stringr,
+    systemfonts,
+    tibble
+Depends: 
+    R (>= 2.10)
+LazyData: true

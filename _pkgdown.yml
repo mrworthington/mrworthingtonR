@@ -1,0 +1,35 @@
+url: ~
+home:
+  title: An R package with Tools for Longevity Partners Employees
+  description: Custom ggplot2 themes and other resources for Longevity Partners
+authors:
+  Matt Worthington:
+    href: http://mrworthington.com
+navbar:
+  bg: "#9cadb7"
+  type: light
+  structure:
+    left:  [home, reference, news]
+    right: [github]
+  components:
+    home:
+      icon: fas fa-home fa-lg
+      href: index.html
+    reference:
+      text: Reference
+      href: reference/index.html
+    github:
+      icon: fab fa-github fa-lg
+      href: https://github.com/longevitypartners
+      aria-label: Github
+    news:
+      text: News
+      href: news/index.html
+template:
+  bootstrap: 5
+  bootswatch: litera
+  bslib:
+    bg: "#ffffff"
+    fg: "#333f48"
+    primary: "#bf5700"
+    code_font: {google: "JetBrains Mono"}

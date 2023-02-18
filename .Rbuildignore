@@ -1,0 +1,11 @@
+^mrworthingtonR\.Rproj$
+^\.Rproj\.user$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^README.qmd
+^README_files$
+^index.qmd
+^index.html
+^index_files$
+^data-raw$
