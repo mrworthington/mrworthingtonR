@@ -8,6 +8,8 @@
 [![R-CMD-check](https://github.com/r-lib/conflicted/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/mrworthington/mrworthingtonR/actions/workflows/R-CMD-check.yaml)
 [![Codecov test
 coverage](https://codecov.io/gh/r-lib/conflicted/branch/main/graph/badge.svg)](https://app.codecov.io/gh/mrworthington/mrworthingtonR?branch=main)
+[![Netlify
+Status](https://api.netlify.com/api/v1/badges/1bc5ad79-1a9b-4e0f-8605-c0287ac7b1d9/deploy-status.png)](https://app.netlify.com/sites/mrworthingtonr/deploys)
 <!-- badges: end -->
 
 The goal of {mrworthingtonR} is to make coding quicker + more efficient.
